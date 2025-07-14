@@ -30,3 +30,6 @@ replay_pid*
 
 # OS-specific
 .DS_Store
+
+# Ignore compiled output
+out/
