@@ -1,3 +1,5 @@
+package assignment0;
+
 public class HelloGoodbye {
     public static void main(String[] args) {
         String name1 = args[0];
